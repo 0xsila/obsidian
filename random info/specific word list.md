@@ -1,0 +1,1 @@
+https://github.com/danielmiessler/SecLists/blob/285474cf9bff85f3323c5a1ae436f78acd1cb62c/Discovery/Web-Content/common-and-french.txt

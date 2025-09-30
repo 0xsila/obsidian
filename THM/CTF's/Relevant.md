@@ -1,0 +1,1 @@
+is a windows machine , study windows and solve it
